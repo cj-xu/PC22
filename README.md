@@ -8,6 +8,6 @@ Here is the collection of the course material of the autumn school [Proof and Co
 - Stefan Neuwirth: The Philosophy of Dynamic Algebra
 - Fredrik Nordvall Forsberg: Universes of Data Types in Constructive Type Theory
 - Ingo Blechschmidt: Extraction of Programs from Proofs
-- Chuangjie Xu: [Various Approaches to Computing Moduli of Continuity](xu)
+- Chuangjie Xu: [Various Approaches to Computing Moduli of Continuity](xu/continuity.pdf)
 
 ## Working groups
