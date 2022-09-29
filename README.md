@@ -13,7 +13,7 @@ Here is the collection of the course material of the autumn school [Proof and Co
 ## Working Groups
 - Franziskus Wiesnet: Implementing a poker engine
 - Matthias Hutzler & Ingo Blechschmidt: Introduction to Agda for absolute beginners
-- Fredrik Nordvall Forsberg: Internal Language in Agda ([reflectionT.agda](wg-internal-agda/reflectionT.agda))
+- Fredrik Nordvall Forsberg: Internal Language in Agda ([reflectionT.agda](wg-internal-Agda/reflectionT.agda))
 - Josh Chen: Trying to understand / Introduction to synthetic tait computability
 - Marc Bezem: Automating coherent logic
 - Max Zeuner: Different approaches to schemes (and ongoing formalization projects)
