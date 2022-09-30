@@ -3,7 +3,7 @@ Here is the collection of the course material of the autumn school [Proof and Co
 
 ## Courses
 - Steve Awodey: [Categorical Logic](https://awodey.github.io/fischbachau/)
-- Marc Bezem: Coherent Logic
+- Marc Bezem: [Coherent Logic](https://github.com/marcbezem/CL-PC22)
 - Hajime Ishihara: [Reverse Mathematics in Constructive Set Theory](ishihara)
 - Stefan Neuwirth: [The Philosophy of Dynamic Algebra](http://neuwirth.perso.math.cnrs.fr/pc22/)
 - Fredrik Nordvall Forsberg: [Universes of Data Types in Constructive Type Theory](http://fredriknf.com/pc22/)
