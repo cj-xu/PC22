@@ -18,3 +18,6 @@ Here is the collection of the course material of the autumn school [Proof and Co
 - Marc Bezem: Automating coherent logic
 - Max Zeuner: Different approaches to schemes (and ongoing formalization projects)
 - Fredrik Nordvall Forsberg: Ordinals and continuity
+
+## Hike Photos
+Samuel Desrochers has kindly shared a [Google Photos album](https://photos.google.com/share/AF1QipPipToATID_f61ZxpO15kTO9XKUTjlFTw44CMrEc05EClEx80lJAu_KbdqDlYqwmQ?pli=1&key=azItSDZEcnh4SGMyMEkwNnpQaWQzYVRPRTZXNFBB) of the photos he took during the hike.
